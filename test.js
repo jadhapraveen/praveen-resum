@@ -23,10 +23,6 @@
 // console.log(z)
 // console.log(typeof x)
 
-// student name
-// let name="praveen "
-// console.log(typeof name)
-
 
 // let num1 =2
 // let output = num1 ** 3 //2*2*2
@@ -74,6 +70,10 @@
 // let z=9
 // z=z%2
 // console.log("z")
+
+// student name
+// let name="praveen "
+// console.log(typeof name)
 
 
 // let firstName="praveen"
