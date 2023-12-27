@@ -9,7 +9,7 @@
 
 
 // let x,y,z
-
+ 
 // x=6
 // y=4
 // z=x+y
@@ -36,6 +36,18 @@
 // console.log(num1%2)
 
 
+// let num1 =2
+// let output = num1 ** 3 //2*2*2
+// console.log(output)
+
+// console.log(num1%5)
+
+// let num1 =9
+// let output = num1 ** 3 //2*2*2
+// console.log(output)
+
+// console.log(num1%2)
+
 // let num1 =14
 // let output = num1 ** 3 //2*2*2
 // console.log(output)
@@ -43,11 +55,9 @@
 // console.log(num1%5)
 
 
-
 // let x=5
 // x=x+3
-
-// console.log("x value:",x)
+//  console.log("x value:",x)
 
 
 // let y=5
@@ -56,6 +66,7 @@
 // console.log("y value:",y)
 
 // shortHand above code
+
 // let x =5
 // x+=3
 
@@ -69,7 +80,12 @@
 
 // let z=9
 // z=z%2
-// console.log("z")
+// console.log("z",z)
+
+// let z=9
+// z%=2
+// console.log(z)
+
 
 // student name
 // let name="praveen "
@@ -77,24 +93,54 @@
 
 
 // let firstName="praveen"
-// let lastName ="jadhav"
+// let lastName ="Jadhav"
 // let fullName =firstName+lastName
 // console.log ("fullName",fullName)
+
 
 // let firstName="praveen"
 // let lastName ="jadhav"
 // let fullName =firstName+","+lastName
 // console.log ("fullName",fullName)
 
-// let firstName="praveen"
-// let lastName ="jadhav"
-// let fullName =firstName+","+"lastName"
-// console.log ("fullName",fullName)
+let firstName="praveen"
+let lastName ="jadhav"
+let fullName =firstName+" "+"lastName"
+console.log ("fullName",fullName)
+
+// let x="praveen"
+// let y="jadhav"
+//  console.log(x+y) 
+
+
 
 // let x=5
-// let y=19
-//  console.log(5+19)
+// let y=3
+//  console.log(x+y) 
 
+// let x="5"
+// let y=3
+//  console.log(x+y) 
+
+// let x=5
+// let y=3
+// let z="9"
+//  console.log(x+y+z) //5+3=8"9"=89
+
+//  let x="5"
+//  let y=3
+//  let z=9
+//   console.log(x+y+z)//"5"+3=53+9=539
+
+
+
+// student name
+// let name="praveen "
+// console.log(typeof name
+
+// student name
+// let name="praveen "
+// console.log(typeof name
 // declare var x ;let x ;const x
 //            var       let       const
 // redclare
@@ -111,6 +157,11 @@
 // let x =5
 // console.log("first",x)
 
+// let z=9
+// z=z%2
+// console.log("z",z)
 
 
-
+let z=9
+z%2
+console.log("z",z)
