@@ -259,4 +259,108 @@
 // let num3=9
 // console.log(num3+num2+num1)
 
+// const sum=(a,b)=>{
+//   console.log (a+b) 
+// }
 
+// sum(15,30)
+// sum(98,67)
+// let a=20
+// let b=10
+//  sum=(a,b)
+
+ 
+// let y=20
+// let x=10
+// const sum=(y,x)
+
+  
+// const sub=(a,b)=>{
+//   console.log (a-b) 
+// }
+//  sub=(24,4) 
+
+
+// function sum1 (p1, p2, p3){
+//   console.log( p1+p2+p3)
+// }
+// sum1= (3,4,3)
+   
+
+// const greeting =()=>{
+//   console.log ("hi praveen")
+// }
+// greeting()
+
+
+
+
+
+
+//  const total 1 sum(x,y)
+//  console.log ("total1",total1)
+// const total 2 sub (8,4)
+
+// const sub=(a,b)=>{
+//     console.log (a-b) 
+//   }
+
+// let x=30
+// let y=56
+// sub(8,4)
+
+
+
+// let a =10
+// let b =20
+// console.log(a+b) 
+
+
+// let x=28
+// let y=39
+// console.log(x+y)
+
+// function toCelsius(fathrenheit) {
+// return (5/9) *(fathrenheit-32);
+// }
+
+// const toCelsius =(fathrenheit)=> {
+//   return (5/9) *(fathrenheit-32);
+//   }
+// let value =toCelsius(77);
+// console.log("celsius",value)
+
+// const question ="what is your fother name"
+// console.log(question)
+// let text='he is"excellent" in his work'
+// console.log (text)
+
+// let text2='he is\"excellent"\ in his work'
+// console.log (text2)
+
+// let text1="praveen father name is baliram "
+// console.log (text1.length)
+
+
+
+// const name =("praveen")
+// console.log(name[1])
+// console.log (name.length)
+
+// const name =("mangilal")
+// console.log (name.length)
+// console.log(name [0])
+// console.log (name.slice(5,8))
+
+
+// const name =("mangilal")
+// console.log (name.length)
+// console.log(name [0])
+// console.log (name.slice(5))
+
+const name =("mangilal")
+console.log (name.length)
+console.log(name [0])
+// console.log (name.slice(-2-3))
+// console.log (name.slice(0,3))
+console.log (name.slice(0,8))+(name.slice(-2))
